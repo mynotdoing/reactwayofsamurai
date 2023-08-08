@@ -1,0 +1,32 @@
+ul {
+  list-style-type: none;
+  
+  
+}
+
+ul a {
+  color: wheat;
+  text-decoration: none;
+}
+
+
+
+.activeLink {
+  color: greenyellow;
+}
+
+.item {
+  color: violet;
+}
+
+
+.navZboky {
+grid-area: n;
+background-color: grey;
+padding: 20px;
+}
+
+li a:hover:not(.activeLink) {
+  background-color: #555;
+  color: white;
+}

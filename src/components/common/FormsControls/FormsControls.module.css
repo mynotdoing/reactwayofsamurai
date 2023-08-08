@@ -1,0 +1,15 @@
+
+
+
+.formControl.error input,
+.formControl.error textarea {
+    border: 10px solid violet
+}
+
+.formControl.error span {
+    color: blueviolet;
+}
+
+.formSummaryError {
+    border: 5px solid greenyellow;
+}

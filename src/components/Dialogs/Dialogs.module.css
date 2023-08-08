@@ -1,0 +1,33 @@
+h1 {
+    color: red;
+}
+
+
+.dialogs {
+display: grid;
+grid-template-columns: 2fr 10fr;
+
+
+}
+
+.dialogsItems {
+    padding: 10px;
+}
+
+
+.messages {
+    padding: 10px;
+}
+
+.message {
+    color: green;
+}
+
+textarea {
+    background-color: brown;
+}
+
+button {
+    background-color: aquamarine;
+}
+

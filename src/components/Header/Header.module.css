@@ -1,0 +1,22 @@
+
+
+header img {
+  width: 50px;
+}
+
+.headerShapka {
+  grid-area: h;
+  background-color: #001529;
+  color: #fff;
+  
+  }
+
+ .loginBlock {
+   float: right;
+   
+ } 
+
+ .loginBlock a {
+  color: white;
+  
+} 
