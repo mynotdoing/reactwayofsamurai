@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/reactwayofsamurai/static/css/main.c3cd3a5d.css",
+    "main.js": "/reactwayofsamurai/static/js/main.c3a3454c.js",
+    "static/css/399.18a0ed55.chunk.css": "/reactwayofsamurai/static/css/399.18a0ed55.chunk.css",
+    "static/js/399.2e2f2096.chunk.js": "/reactwayofsamurai/static/js/399.2e2f2096.chunk.js",
+    "static/media/LoadingFetching.gif": "/reactwayofsamurai/static/media/LoadingFetching.63d7da1bc33c0063002c.gif",
+    "index.html": "/reactwayofsamurai/index.html",
+    "main.c3cd3a5d.css.map": "/reactwayofsamurai/static/css/main.c3cd3a5d.css.map",
+    "main.c3a3454c.js.map": "/reactwayofsamurai/static/js/main.c3a3454c.js.map",
+    "399.18a0ed55.chunk.css.map": "/reactwayofsamurai/static/css/399.18a0ed55.chunk.css.map",
+    "399.2e2f2096.chunk.js.map": "/reactwayofsamurai/static/js/399.2e2f2096.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3cd3a5d.css",
+    "static/js/main.c3a3454c.js"
+  ]
+}
